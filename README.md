@@ -1,0 +1,1 @@
+This is a web scraping project of products from an amazon.com url, the goal is to create a scraping technique using selenium and save it in a csv file further more create a framework to check the prices of the scrapped data in every 2 days and store in our file.
